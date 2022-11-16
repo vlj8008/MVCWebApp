@@ -4,4 +4,4 @@
  
  ## Description
  
-Practicing creating a new user and displayeing it on home page. 
+Practicing creating a new user and displaying it on home page. 
